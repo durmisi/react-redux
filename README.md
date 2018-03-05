@@ -7,15 +7,4 @@
 
 ```bash
 npm i && npm start
-```
-
-## Meta
-
-Valentino Gagliardi - [valentinog.com](https://www.valentinog.com) - valentino@valentinog.com
-
-## License
-
-This project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
-
-
-https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj
+``
